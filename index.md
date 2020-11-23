@@ -7,4 +7,4 @@ some projects I have worked on can be found here.
 ## Links  
   - [Experience](exp.md)  
   - [Coursework](school.md)
-  - [Resume](documents/resume.pdf)
+  - [Resume](documents/Resume.pdf)
