@@ -7,4 +7,4 @@ some projects I have worked on can be found here.
 ## Links  
   - [Experience](exp.md)  
   - [Coursework](school.md)
-  - [Resume](documents/Resume.pdf)
+  - <a href="documents/Resume.pdf" target="_blank">Resume</a>
