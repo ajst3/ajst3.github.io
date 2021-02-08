@@ -15,13 +15,13 @@ on the web application and web scrapping via BeautifulSoup.
 This experience was enriching as I was exposed to a technology I was unaware
 of and experienced the effort that goes into ensuring quality of a software
 based product. One of the biggest challenges I faced in test automation was
-being able traverse complexities of the web applications that made automation
+being able traverse complexities of web applications that make automating tasks
 not as straight forward. For example, it is possible to disconnect or timeout
 as some actions on the web app are slow, so that must be taken into account
 to avoid a false failure.  
 
-Overall, the biggest challenge I faced overcoming the mentality that failure
-is bad. As a developer it is disappointing seeing a program fail, but in the
+Overall, the biggest challenge I faced was overcoming the mentality that failure
+is bad. As a developer, it is disappointing seeing a program fail, but in the
 context of quality assurance, it is necessary to catch failures and improve.
 Because automation is done programmatically, it is possible that a failure is
 a result of something I developed rather than the application I am testing;
